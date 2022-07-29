@@ -31,6 +31,8 @@ void loop() {
     digitalWrite(9,LOW);
    }
 }
+try it!
+https://www.tinkercad.com/things/devEIQ7cCXj
 
 
 # Analog-sensor
@@ -64,7 +66,6 @@ https://www.tinkercad.com/things/dePOEVWBnd6
 
 
 
-try it!
-https://www.tinkercad.com/things/devEIQ7cCXj
+
 
 
